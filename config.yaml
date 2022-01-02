@@ -1,0 +1,23 @@
+baseURL: "https://malarzdawid.pl"
+theme: PaperMod
+title: "Malarz Dawid"
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: true
+  profileMode:
+    enabled: true
+    title: "Malarz Dawid"
+    subtitle: "Machine Learning Developer"
+    author: "MalarzDawid"
+
+  socialIcons:
+      - name: github
+        url: "https://github.com/malarzdawid"
+      - name: linkedin
+        url: https://www.linkedin.com/in/dawid-malarz/
