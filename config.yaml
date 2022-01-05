@@ -13,7 +13,7 @@ params:
   profileMode:
     enabled: true
     title: "Malarz Dawid"
-    subtitle: "Machine Learning Developer"
+    subtitle: "🤖 Machine Learning Developer 🤖"
     author: "MalarzDawid"
 
   socialIcons:
